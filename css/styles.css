@@ -329,7 +329,6 @@ img {
   display: flex;
   flex-direction: column;
   padding: 100px 0;
-  align-items: center;
 }
 
 .footer-logo {
@@ -343,6 +342,7 @@ img {
   margin-bottom: 16px;
   display: inline-block;
   min-height: 24px;
+  align-items: center;
   flex-shrink: 0;
 }
 
